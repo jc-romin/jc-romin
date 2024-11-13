@@ -26,4 +26,6 @@ My journey in my undergrad has led me to develop a passion for cybersecurity, an
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/JeanCarlaRomin-4831/85A91A8D87D61916?sharingId=5D4CCB983F7B5792"><img src="https://img.shields.io/badge/-Azure_AZ900-0072b1?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="AZ-900 Azure Fundamentals" /></a>
 </div>
 
+I am currently working towards obtaining the AWS Certified Cloud Practitioner certification, with plans to pursue the AWS Certified Solutions Architect – Associate certification afterwards.
+
 ## Projects
