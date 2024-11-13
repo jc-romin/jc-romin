@@ -20,9 +20,9 @@ My journey in my undergrad has led me to develop a passion for cybersecurity and
 
 ## Certifications
 <div>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JeanCarlaRomin-4831/86F1397E3008D188?sharingId=5D4CCB983F7B5792"><img src="https://img.shields.io/badge/-Azure_AI900-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="AI-900 Azure AI Fundamentals" /></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JeanCarlaRomin-4831/319B7E91337070E4?sharingId=5D4CCB983F7B5792"><img src="https://img.shields.io/badge/-Azure_SC900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="SC-900  Security, Compliance, and Identity Fundamentals" /></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JeanCarlaRomin-4831/85A91A8D87D61916?sharingId=5D4CCB983F7B5792"><img src="https://img.shields.io/badge/-Azure_AZ900-0072b1?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="AZ-900 Azure Fundamentals" /></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JeanCarlaRomin-4831/86F1397E3008D188?sharingId=5D4CCB983F7B5792"><img src="https://img.shields.io/badge/-MS_AI900-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="AI-900 Azure AI Fundamentals" /></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JeanCarlaRomin-4831/319B7E91337070E4?sharingId=5D4CCB983F7B5792"><img src="https://img.shields.io/badge/-MS_SC900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="SC-900  Security, Compliance, and Identity Fundamentals" /></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JeanCarlaRomin-4831/85A91A8D87D61916?sharingId=5D4CCB983F7B5792"><img src="https://img.shields.io/badge/-MS_AZ900-0072b1?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="AZ-900 Azure Fundamentals" /></a>
 </div>
 
 I am currently working towards obtaining the AWS Certified Cloud Practitioner certification, with plans to pursue the AWS Certified Solutions Architect – Associate certification afterwards.
