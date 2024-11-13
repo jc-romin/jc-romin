@@ -5,10 +5,9 @@ I am a fourth-year undergrad student with a profound interest in technology and 
 
 ## Objective
 
-My journey in my undergrad has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+My journey in my undergrad has led me to develop a passion for cybersecurity and cloud computing, and I am now eager to transition into this field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
