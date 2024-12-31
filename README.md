@@ -23,6 +23,9 @@ My journey in my undergrad has led me to develop a passion for cybersecurity and
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/JeanCarlaRomin-4831/86F1397E3008D188?sharingId=5D4CCB983F7B5792"><img src="https://img.shields.io/badge/-Microsoft_AI900-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="AI-900 Azure AI Fundamentals" /></a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/JeanCarlaRomin-4831/319B7E91337070E4?sharingId=5D4CCB983F7B5792"><img src="https://img.shields.io/badge/-Microsoft_SC900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="SC-900  Security, Compliance, and Identity Fundamentals" /></a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/JeanCarlaRomin-4831/85A91A8D87D61916?sharingId=5D4CCB983F7B5792"><img src="https://img.shields.io/badge/-Microsoft_AZ900-0072b1?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="AZ-900 Azure Fundamentals" /></a>
+ <a href="https://www.credly.com/badges/6ebf0122-9929-482c-b919-a2d5698b5954/public_url" class="badge-button" title="View AWS Certified Cloud Practitioner certification details">
+    <img src="https://img.shields.io/badge/-AWS_Solutions_Architect-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+  </a>
 </div>
 
 I am currently working towards obtaining the AWS Certified Cloud Practitioner certification, with plans to pursue the AWS Certified Solutions Architect – Associate certification afterwards.
